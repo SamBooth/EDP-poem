@@ -1,3 +1,3 @@
 # EDP-poem
 A demo poem for Creative Coding
-test
+A quick demo for class
